@@ -1,4 +1,12 @@
-    <?php
+   <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Activity 2</title>
+</head>
+<body>
+ <?php
    //Kelvin
     /*
     FULL NAME: CASABUENA, KELVIN CLARK, R.
@@ -32,3 +40,5 @@
     print "I am " . $me["name"] . ", a " . $me["course"] . " student of " . $me["school"] . ".";
 
     ?>
+</body>
+</html>
